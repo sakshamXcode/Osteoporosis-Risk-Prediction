@@ -6,7 +6,7 @@ This repository contains a comprehensive study on **Osteoporosis Risk Prediction
 
 **Key Findings:**
 - **Gradient Boosting** emerged as the best-performing model with an accuracy of **90.81%**, a precision of **0.94**, a recall of **0.84**, and an F1-score of **0.88**.
--**Decision Tree** showed an accuracy of **82.65%**, with a precision of **0.85**, a recall of **0.87**, and an F1-score of **0.86**.
+- **Decision Tree** showed an accuracy of **82.65%**, with a precision of **0.85**, a recall of **0.87**, and an F1-score of **0.86**.
 - **Random Forest** achieved an accuracy of **84.69%**, with a precision of **0.88**, a recall of **0.75**, and an F1-score of **0.81**.
 - **Support Vector Machine (SVM)** had an accuracy of **84.69%**, with a precision of **0.78**, a recall of **0.98**, and an F1-score of **0.87**.
 - **Naive Bayes** demonstrated an accuracy of **84.18%**, with a precision of **0.92**, a recall of **0.75**, and an F1-score of **0.83**.
