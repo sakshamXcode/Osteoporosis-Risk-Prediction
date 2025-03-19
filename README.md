@@ -79,7 +79,7 @@ jupyter notebook notebooks/Osteoporosis_RISK_PREDICTION.ipynb
 ### Citation
 If you use or refer to this work, please cite it as follows:
 ```arduino
-Singh, S. (2024). Osteoporosis Risk Prediction Using Multiple Machine Learning Techniques. GitHub Repository. https://github.com/yourusername/Osteoporosis-Risk-Prediction
+Singh, S. (2025). Osteoporosis Risk Prediction Using Multiple Machine Learning Techniques. GitHub Repository. https://github.com/yourusername/Osteoporosis-Risk-Prediction
 ```
 
 ### Acknowledgements
